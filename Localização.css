@@ -62,9 +62,9 @@ li:hover {
 h1 {
     padding: 20px;
     text-align: center;
-    /* Para alinhamento de texto titolos */
+    
     margin-top: 0;
-    /* margin para afastar o txto do baner*/
+    
     font-size: 2rem;
     color: white;
     font-family: 'Kdam Thmor Pro', sans-serif;
