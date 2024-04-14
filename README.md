@@ -1,7 +1,7 @@
 # LanchoneteEstatico
-- Projeto simples  peges estático | HTML | CSS |
-- todas as pages estão funcional  e responsive
-- contatos , cardapio , localização , formularios com critica e sugestao.
+- Simple static design | HTML | CSS |
+- all pages are functional and responsive
+- contacts, menu, location, criticism and suggestion forms.
 - LINK
 https://felipefonteslisboa.github.io/LanchoneteEstatico/
 ![image](https://github.com/FelipeFontesLisboa/LanchoneteEstatico/assets/140672254/c544e7ef-6afb-4850-8be7-97752cd423cc)
